@@ -32,7 +32,7 @@ src/
 │   └── SearchBar.jsx      // Search input with buttons
 ├── App.jsx                // Main app logic, state, and API fetch
 └── main.jsx               // React entry point
-
+```
 
 
 ---
