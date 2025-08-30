@@ -22,15 +22,17 @@ Book Finder lets users search for books by title and view results instantly. Cli
 
 ## Folder Structure
 
+```
 src/
 ├── components/
-│   ├── AlertMessage.jsx   # Shows messages like errors or info
-│   ├── BookCard.jsx       # Displays individual book in grid
-│   ├── BookModal.jsx      # Popup modal with book details
-│   ├── Loader.jsx         # Loading spinner animation
-│   └── SearchBar.jsx      # Search input and buttons
-├── App.jsx                # Main app logic, state, and API fetch
-└── main.jsx               # React entry point
+│   ├── AlertMessage.jsx   // Shows messages like errors or info
+│   ├── BookCard.jsx       // Displays individual book in grid
+│   ├── BookModal.jsx      // Popup modal with book details
+│   ├── Loader.jsx         // Loading spinner animation
+│   └── SearchBar.jsx      // Search input with buttons
+├── App.jsx                // Main app logic, state, and API fetch
+└── main.jsx               // React entry point
+
 
 
 ---
